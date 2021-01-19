@@ -1,5 +1,5 @@
-# HW1.Excel
-This is the first assignment at the Data Analytics bootcamp, the objective is to set the baseline in Excel basic knowledge of pivot tables
+# Excel
+The objective is to find usefull insights with the given database 
 
 Background:
 
